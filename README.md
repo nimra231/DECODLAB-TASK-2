@@ -1,6 +1,5 @@
-🌸 Project 2: Data Classification Using AI
 
-## DecodeLabs Industrial Training Kit | Batch 2026
+## DecodeLabs Industrial Training Kit 
 
 ---
 
